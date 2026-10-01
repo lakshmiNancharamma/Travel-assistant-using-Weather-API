@@ -1,0 +1,5 @@
+langchain
+langchain-ollama
+pymongo
+python-dotenv
+requests
